@@ -1,0 +1,5 @@
+echo ">> Running Biome"
+npm run biome
+
+echo ">> Saving changes from Biome"
+git add .
